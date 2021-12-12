@@ -28,6 +28,8 @@ position_min: -15
 See Diagram
 
 ## Tips
-You need to align the servo with the probe to the miniAB mount so that it will slide in/out properly
+You need to align the servo with the probe to the miniAB mount so that it will slide in/out properly.
+
 You may need to make the holes on the probe a little bit bigger so the soldered conductor on the microswitch can fit into the hole.
+
 I put a dab of CA glue to the microswitch so that it will not move.
