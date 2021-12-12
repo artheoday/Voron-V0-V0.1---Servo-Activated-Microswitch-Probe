@@ -21,7 +21,9 @@ BOM:
 
 [stepper_z]
 endstop_pin: probe:z_virtual_endstop #default PC2 for home with Z endstop, Use "probe:z_virtual_endstop" if you want to home with probe
+
 ;position_endstop
+
 position_min: -15
 
 ## Wiring
