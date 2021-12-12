@@ -16,7 +16,7 @@ BOM:
 - 1 - [300mm Servo Extension Cable](https://www.amazon.com/gp/product/B01LA9YDEI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - 1 - 450mm Two conductor wire 24AWG or 28AWG
 
-## Change this in the MAIN printer.CFG
+## Change this in the printer.cfg
 [include probe.cfg]
 
 [stepper_z]
