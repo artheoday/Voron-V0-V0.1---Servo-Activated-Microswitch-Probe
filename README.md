@@ -1,4 +1,4 @@
-# V0.1-Servo-Activated-Klicky-Probe
+# Voron V0/V0.1-Servo-Activated-Microswitch-Probe
 
 Now the cute little printer has auto bed mesh levelling and screw tilt adjust!!! 
 This applicable to Voron V0/V0.1
