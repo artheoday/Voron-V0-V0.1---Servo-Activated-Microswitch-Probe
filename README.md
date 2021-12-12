@@ -35,3 +35,6 @@ You need to align the servo with the probe to the miniAB mount so that it will s
 You may need to make the holes on the probe a little bit bigger so the soldered conductor on the microswitch can fit into the hole.
 
 I put a dab of CA glue to the microswitch so that it will not move.
+
+## Notes
+I dont knnow how to use CAD or design my own, I just remix/cut the two designs I mentioned. So, may this thing help other designers to perfect it it the future
