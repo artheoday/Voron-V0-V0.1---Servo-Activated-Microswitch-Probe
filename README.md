@@ -16,7 +16,7 @@ BOM:
 - 1 - [300mm Servo Extension Cable](https://www.amazon.com/gp/product/B01LA9YDEI/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - 1 - 450mm Two conductor wire 24AWG or 28AWG
 
-# Change this in the MAIN printer.CFG
+## Change this in the MAIN printer.CFG
 [include probe.cfg]
 
 [stepper_z]
@@ -24,10 +24,10 @@ endstop_pin: probe:z_virtual_endstop #default PC2 for home with Z endstop, Use "
 ;position_endstop
 position_min: -15
 
-#Wiring
+## Wiring
 See Diagram
 
-#Tips
+## Tips
 You need to align the servo with the probe to the miniAB mount so that it will slide in/out properly
 You may need to make the holes on the probe a little bit bigger so the soldered conductor on the microswitch can fit into the hole.
 I put a dab of CA glue to the microswitch so that it will not move.
